@@ -15,5 +15,6 @@
   <img src="https://skillicons.dev/icons?i=flutter,dart,react,nextjs,typescript,python,java,nest,bash,git,github" />
 </div>
 
-<!--->
-<img hidden src="https://komarev.com/ghpvc/?username=jirrroooo&color=bdb2ff&style=for-the-badge"/>
+
+<!-- <img hidden src="https://komarev.com/ghpvc/?username=jirrroooo&color=bdb2ff&style=for-the-badge"/> -->
+
