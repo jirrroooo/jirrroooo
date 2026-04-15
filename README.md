@@ -2,12 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=03368a&text=John%20Rommel%20Octavo&textBg=false&fontSize=30&fontColor=ffffff" />
 </div>
 
-<p align="center">Mobile Application and Website Developer</p>
+<p align="center">Flutter Mobile Developer</p>
 
 <div align="center">
-  <a href="https://www.instagram.com/jiro.octavo/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  
-  <a href="https://www.facebook.com/azellebjohn/"><img src="https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
-   <a href="https://www.tiktok.com/@jirrrroooo"><img src="https://img.shields.io/badge/tiktok-333333?style=for-the-badge&logo=tiktok&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/octavojiro/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+   <a href="https://play.google.com/store/apps/dev?id=7018976588480485168&hl=en"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"></a>
 </div> 
 
 <br>
