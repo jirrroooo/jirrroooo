@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=03368a&text=John%20Rommel%20Octavo&textBg=false&fontSize=30&fontColor=ffffff" />
 </div>
 
-<p align="center">Flutter Mobile Developer</p>
+<p align="center">Software Developer</p>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/octavojiro/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
